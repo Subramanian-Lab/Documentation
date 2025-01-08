@@ -6,8 +6,6 @@
 
 <h1 align="center"> Subramanian Lab Documentation Database</h1>
 
-![img]("folder.png")
-
 Welcome to Subramanian lab Documentation repository! This repository aims to provide comprehensive documentation for various tools and workflows used in our lab. This content is structured to serve as a knowledge base, covering topics ranging from basic tools like Git and Bash to more advanced topics like High Performance Computing (HPC) job submission.
 
 This repository is organized into sections containing documentations, examples and resources.
@@ -52,5 +50,6 @@ If you have any improvements, new examples or additions, or fixes to the documen
 ```
 
 7. Open pull request to merge your changes into the main repository
+
 
 logo : <a href="https://www.flaticon.com/free-icons/documents" title="documents icons">Documents icons created by Freepik - Flaticon</a>
