@@ -2,6 +2,8 @@
 
 This guide is designed to help you get started with using PBS (portable Batch System) and an HPC (High perfomance computing) system effectively for your job. This article contains the necessary instructions to start and troubleshoot if any problem arises.
 
+---
+
 ## TL;DR 
 All the major commands and scripts mentioned in this article and some more.
 
@@ -21,8 +23,10 @@ All the major commands and scripts mentioned in this article and some more.
 - `qstat -Q`: Detailed queue usage
 ### Resource Allocation
 - `qstat -r`: Shows running jobs with resource details
-### General commands
+### General Commands
 - `tracejob <job_id>`: Traces a job's history for debugging
+
+---
 
 ## Table of Contents
 1. [Introduction to HPC and PBS](#intro)
@@ -35,6 +39,8 @@ All the major commands and scripts mentioned in this article and some more.
 8. [Tips and Best Practises](#tips)
 9. [References](#ref)
 10. [Authors](#authors)
+
+---
 
 ## <a name=intro>1. Introduction to HPC and PBS </a>
 
@@ -180,7 +186,7 @@ If your job doesn't start, check:
 - Document log files for future references.
 - Leverage modules if you need a special version of a library or software that your job requires.
 
-## <a mame=ref>9. References and Further reading </a>
+## <a name=ref>9. References and Further reading </a>
 - [Using HPC](https://www.weizmann.ac.il/chemistry/chemfarm/)
 - [PBS documentation](https://2021.help.altair.com/2021.1.2/PBS%20Professional/PBSUserGuide2021.1.2.pdf)
 - [Some basic linux commands for using HPC](https://nusit.nus.edu.sg/wp-content/uploads/2019/09/unixcom.pdf)
