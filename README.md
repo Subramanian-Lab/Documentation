@@ -1,6 +1,6 @@
 <p align="center">
     <a href="[https://app.warp.dev/get_warp](https://github.com/Subramanian-Lab/Documentation)">
-    <img width="612" alt="horz - dark" src="https://storage.googleapis.com/warpdotdev-content/warp_logo-21_10.png">
+    <img width="612" alt="horz - dark" src="folder.png">
     </a>
 </p>
 
