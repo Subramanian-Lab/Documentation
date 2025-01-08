@@ -52,6 +52,7 @@ The basic structure of an HPC is a system consisting of several interconnected c
 PBS operates as an intermediary between users and the HPC system. When you submit a job using PBS, it is added to a queue and scheduled based on resource availability and priority. PBS distributes the workload effectievely across all the compute nodes. When a node becomes available, the job is submitted to that node by PBS. It should be noted that you should *NOT* run codes directly on the master node, as it is a shared node and its only task is to manage files and prepare scripts.
 
 NB: The number of nodes of your cluster can be found out by running the command `pbsnodes` it will give the information on how many nodes are there and the status of these nodes. All the commands will be listed later in the article.
+
 ---
 
 ## <a name=basicconcepts>3. Basic Concepts and Terminology </a>
