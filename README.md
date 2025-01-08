@@ -1,4 +1,7 @@
 # Documentation Repository
+
+<img src="icon.png" width="128" height="128" alt="scrcpy" align="right" />
+
 Welcome to Subramanian lab Documentation repository! This repository aims to provide comprehensive documentation for various tools and workflows used in our lab. This content is structured to serve as a knowledge base, covering topics ranging from basic tools like Git and Bash to more advanced topics like High Performance Computing (HPC) job submission.
 
 This repository is organized into sections containing documentations, examples and resources.
@@ -19,21 +22,29 @@ This repository is organized into sections containing documentations, examples a
 ## How to Contribute
 If you have any improvements, new examples or additions, or fixes to the documentation, please follow these steps to contribute:
 
-1. Fork the repository (The option will be available on the right just above the green "code" button.)
+1. Fork the repository.
 
 2. Clone your fork to your local machine.
-	`git clone https://github.com/your-username/general-docs.git`
-
+```bash
+	git clone https://github.com/your-username/general-docs.git
+```
 3. Create a new branch for your changes:
-	`git checkout -b my-changes`
-
+```bash
+	git checkout -b my-changes
+```
 4. Make your changes, add new content, or update existing documentation.
 
 5. Commit your changes:
-	`git add <modified files>`
-	`git commit -m "<commit comment>"`
+```bash
+	git add <modified files> 
+	git commit -m "<commit comment>"
+```
 
 6. Push your changes to your fork
-	`git push origin my-changes`
+```bash
+	git push origin my-changes
+```
 
 7. Open pull request to merge your changes into the main repository
+
+logo : <a href="https://www.flaticon.com/free-icons/documents" title="documents icons">Documents icons created by Freepik - Flaticon</a>
