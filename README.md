@@ -11,16 +11,13 @@ Welcome to Subramanian lab Documentation repository! This repository aims to pro
 This repository is organized into sections containing documentations, examples and resources.
 
 ## Repository Structure
-
-- README.md
-- docs
-	- hpc
-		- hpc_job_submission.md
-		- resource_management.md
-    - bash
-- Examples
-	- example_hpc_jobscript.sh
-- resources
+```
+.
+├── data
+├── docs
+├── examples
+└── README.md
+```
 
 ## How to Contribute
 If you have any improvements, new examples or additions, or fixes to the documentation, please follow these steps to contribute:
