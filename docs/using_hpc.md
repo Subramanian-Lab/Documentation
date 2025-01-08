@@ -193,6 +193,6 @@ If your job doesn't start, check:
 ## <a name=authors>Authors </a>
 This documentation was created by [Devanarayanan P](https://github.com/kaldiraz).
 
-**This guide was created with the assistance of ChatGPT, developed by OpenAI**
+*This guide was created with the assistance of ChatGPT, developed by OpenAI*
 
 
