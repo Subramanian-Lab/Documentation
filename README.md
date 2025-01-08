@@ -1,6 +1,6 @@
 <p align="center">
     <a href="[https://app.warp.dev/get_warp](https://github.com/Subramanian-Lab/Documentation)">
-    <img width="612" alt="horz - dark" src="folder.png">
+    <img width="128" height="128" alt="img" src="folder.png">
     </a>
 </p>
 
