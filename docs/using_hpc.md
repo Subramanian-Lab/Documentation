@@ -2,6 +2,8 @@
 
 This guide is designed to help you get started with using PBS (portable Batch System) and an HPC (High perfomance computing) system effectively for your job. This article contains the necessary instructions to start and troubleshoot if any problem arises.
 
+---
+
 ## TL;DR 
 All the major commands and scripts mentioned in this article and some more.
 
@@ -35,6 +37,8 @@ All the major commands and scripts mentioned in this article and some more.
 8. [Tips and Best Practises](#tips)
 9. [References](#ref)
 10. [PBS Command cheatsheet](#cheatsheet)
+
+---
 
 ## <a name=intro>1. Introduction to HPC and PBS </a>
 
