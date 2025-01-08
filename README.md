@@ -4,12 +4,7 @@
     </a>
 </p>
 
-<p align=center">
-	# Documentation Repository"
-</p>
-# Documentation Repository
-
-<img src="folder.png" width="128" height="128" alt="img" align="center" />
+<h1 align="center"> Subramanian Lab Documentation Database</h1>
 
 Welcome to Subramanian lab Documentation repository! This repository aims to provide comprehensive documentation for various tools and workflows used in our lab. This content is structured to serve as a knowledge base, covering topics ranging from basic tools like Git and Bash to more advanced topics like High Performance Computing (HPC) job submission.
 
