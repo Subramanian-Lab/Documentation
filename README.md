@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="[https://app.warp.dev/get_warp](https://github.com/Subramanian-Lab/Documentation)">
+    <img width="612" alt="horz - dark" src="https://storage.googleapis.com/warpdotdev-content/warp_logo-21_10.png">
+    </a>
+</p>
+
 # Documentation Repository
 
 <img src="folder.png" width="128" height="128" alt="img" align="center" />
