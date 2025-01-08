@@ -16,6 +16,24 @@ This repository is organized into sections containing documentations, examples a
 - resources
 	- useful_links_and_external_docs.md
 
-|-- READ
-|--- DOCS
+## How to Contribute
+If you have any improvements, new examples or additions, or fixes to the documentation, please follow these steps to contribute:
 
+1. Fork the repository (The option will be available on the right just above the green "code" button.)
+
+2. Clone your fork to your local machine.
+	`git clone https://github.com/your-username/general-docs.git`
+
+3. Create a new branch for your changes:
+	`git checkout -b my-changes`
+
+4. Make your changes, add new content, or update existing documentation.
+
+5. Commit your changes:
+	`git add <modified files>`
+	`git commit -m "<commit comment>"`
+
+6. Push your changes to your fork
+	`git push origin my-changes`
+
+7. Open pull request to merge your changes into the main repository
