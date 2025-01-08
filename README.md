@@ -4,6 +4,9 @@
     </a>
 </p>
 
+<p align=center">
+	# Documentation Repository"
+</p>
 # Documentation Repository
 
 <img src="folder.png" width="128" height="128" alt="img" align="center" />
