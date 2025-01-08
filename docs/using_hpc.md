@@ -26,6 +26,8 @@ All the major commands and scripts mentioned in this article and some more.
 ### General commands
 - `tracejob <job_id>`: Traces a job's history for debugging
 
+---
+
 ## Table of Contents
 1. [Introduction to HPC and PBS](#intro)
 2. [How PBS and HPC work](#howitwork)
