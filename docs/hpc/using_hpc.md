@@ -34,7 +34,7 @@ All the major commands and scripts mentioned in this article and some more.
 7. [Debugging common issues](#debug)
 8. [Tips and Best Practises](#tips)
 9. [References](#ref)
-10. [PBS Command cheatsheet](#cheatsheet)
+10. [Authors](#authors)
 
 ## <a name=intro>1. Introduction to HPC and PBS </a>
 
@@ -112,7 +112,7 @@ For modifying and making changes to the scripts and files in HPC, `vim` or `nano
 A PBS jobscript is essentially a bash script that contains special directives to specify the resource your job requires and some other details. This includes a header region that contains the job name, walltime, memory, number of nodes etc.: 
 
 ### Example PBS Script:
-
+```bash
 #!/bin/bash
 #PBS -N job_name            # Job name
 #PBS -l nodes=1:ppn=4       # Describing nodes and processors required
@@ -173,19 +173,20 @@ If your job doesn't start, check:
 - Queue status: the queue might be full.
 - Resources: You may have requested excessive resources.
 
-## <a name=tips> Tips and Best Practises </a>
+## <a name=tips>8. Tips and Best Practises </a>
 - Start with a small test to verify your jobscript.
 - Optimise resource requests to avoid delays.
 - Organize output and error file with descriptive names to avoid confusion.
 - Document log files for future references.
 - Leverage modules if you need a special version of a library or software that your job requires.
 
-## <a mame=ref>8. References and Further reading </a>
+## <a mame=ref>9. References and Further reading </a>
 - [Using HPC](https://www.weizmann.ac.il/chemistry/chemfarm/)
 - [PBS documentation](https://2021.help.altair.com/2021.1.2/PBS%20Professional/PBSUserGuide2021.1.2.pdf)
 - [Some basic linux commands for using HPC](https://nusit.nus.edu.sg/wp-content/uploads/2019/09/unixcom.pdf)
 
-
+## <a name=authors>Authors</a>
+This documentation was created by [Devanarayanan P](https://github.com/kaldiraz)
 **This guide was created with the assistance of ChatGPT, developed by OpenAI**
 
 
