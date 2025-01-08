@@ -1,6 +1,6 @@
 # Documentation Repository
 
-![img]("icon.png")
+![[icon.png]]
 
 Welcome to Subramanian lab Documentation repository! This repository aims to provide comprehensive documentation for various tools and workflows used in our lab. This content is structured to serve as a knowledge base, covering topics ranging from basic tools like Git and Bash to more advanced topics like High Performance Computing (HPC) job submission.
 
