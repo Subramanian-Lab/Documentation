@@ -17,11 +17,10 @@ This repository is organized into sections containing documentations, examples a
 	- hpc
 		- hpc_job_submission.md
 		- resource_management.md
+    - bash
 - Examples
 	- example_hpc_jobscript.sh
-	- example_git_workflow.sh
 - resources
-	- useful_links_and_external_docs.md
 
 ## How to Contribute
 If you have any improvements, new examples or additions, or fixes to the documentation, please follow these steps to contribute:
@@ -51,5 +50,5 @@ If you have any improvements, new examples or additions, or fixes to the documen
 
 7. Open pull request to merge your changes into the main repository
 
-
+---
 logo : <a href="https://www.flaticon.com/free-icons/documents" title="documents icons">Documents icons created by Freepik - Flaticon</a>
