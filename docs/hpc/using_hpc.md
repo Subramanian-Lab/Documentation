@@ -192,7 +192,6 @@ If your job doesn't start, check:
 - [Some basic linux commands for using HPC](https://nusit.nus.edu.sg/wp-content/uploads/2019/09/unixcom.pdf)
 
 ## <a name=authors>Authors</a>
-This documentation was created by [Devanarayanan P](https://github.com/kaldiraz)
-**This guide was created with the assistance of ChatGPT, developed by OpenAI**
+This documentation was created by [Devanarayanan P](https://github.com/kaldiraz) with the help of ChatGPT.
 
 
